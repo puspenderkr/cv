@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+*{
+    margin:0;
+    padding: 0;
+}
+.html{
+    scroll-behavior: smooth;
+}
+.head{
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: auto;
+    font-family: 'Ubuntu', sans-serif;
+}
+.body{
+    height: 10vh;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: auto;
+    font-family: 'Ubuntu', sans-serif;
+}
+body h3{
+    font-weight: 900;
+}
+
+.about{
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: auto;
+    font-family: 'Ubuntu', sans-serif;
+}
+.about h3{
+    font-weight: 700;
+}
+.about a{
+    text-decoration: solid;
+    text-decoration-color: aqua;
+    font-weight: 500;
+    font-family:'Ubuntu', sans-serif;
+}
+.hobby{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: auto;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+.hobby h4{
+    font-weight: 700;
+}
+/* .hobby ol{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+} */
